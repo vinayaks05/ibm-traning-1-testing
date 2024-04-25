@@ -1,3 +1,8 @@
+/*
+* perform mouse click on the page
+* print the number which appear on top to console
+* */
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
